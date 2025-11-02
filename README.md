@@ -75,13 +75,13 @@ The main goal of this project is to build a robust deep learning model that can:
 **Visuals:**  
 *(Insert images below once generated)*  
 1️⃣ **Loss & Accuracy Curves**  
-![PlantVillage Loss Accuracy](images/stage1_loss_accuracy.png)  
+![PlantVillage Loss Accuracy](https://github.com/Faiza-338/Crop-Disease-Detection-Severity-Estimation-using-EfficientNetB0/blob/main/images/PlantVillage%20Evaluation/Confusion%20Matrix%20(PlantVillage).png)  
 
 2️⃣ **Confusion Matrix**  
-![PlantVillage Confusion Matrix](images/stage1_confusion_matrix.png)  
+![PlantVillage Confusion Matrix](https://github.com/Faiza-338/Crop-Disease-Detection-Severity-Estimation-using-EfficientNetB0/blob/main/images/PlantVillage%20Evaluation/Loss%20%26%20Accuracy%20(PlantVillage).png)  
 
 3️⃣ **ROC Curves**  
-![PlantVillage ROC](images/stage1_roc_curve.png)
+![PlantVillage ROC](https://github.com/Faiza-338/Crop-Disease-Detection-Severity-Estimation-using-EfficientNetB0/blob/main/images/PlantVillage%20Evaluation/ROC%20Curve%20(PlantVillage).png)
 
 ---
 
@@ -110,10 +110,10 @@ Metrics reflect multi-class severity estimation accuracy.
 ![Cassava Loss Accuracy](https://github.com/Faiza-338/Crop-Disease-Detection-Severity-Estimation-using-EfficientNetB0/blob/main/images/Cassava%20Evaluation/Confusiuon%20Matrix%20(Cassava).png)  
 
 2️⃣ **Confusion Matrix**  
-![Cassava Confusion Matrix](images/stage2_confusion_matrix.png)  
+![Cassava Confusion Matrix](https://github.com/Faiza-338/Crop-Disease-Detection-Severity-Estimation-using-EfficientNetB0/blob/main/images/Cassava%20Evaluation/Loss%20%26%20Accuracy%20(Cassava).png)  
 
 3️⃣ **ROC Curves**  
-![Cassava ROC](images/stage2_roc_curve.png)
+![Cassava ROC](https://github.com/Faiza-338/Crop-Disease-Detection-Severity-Estimation-using-EfficientNetB0/blob/main/images/Cassava%20Evaluation/ROC%20Curve%20(Cassava).png)
 
 ---
 
