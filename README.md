@@ -1,1 +1,1 @@
-# Machine_Learning
+# Crop Disease Detection & Severity Estimation
