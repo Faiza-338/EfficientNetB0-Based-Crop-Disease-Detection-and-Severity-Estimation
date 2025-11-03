@@ -8,8 +8,9 @@ A **two-stage training approach** was employed:
 
 ---
 
-## 💻 Run on Colab
-👉 [**Open in Google Colab**](https://colab.research.google.com/drive/1jtmSUK__9kFKtx1_yUxt4hchkG6rhXI5?usp=sharing)
+## 💻 Run Online
+👉 [**Open in Google Colab**](https://colab.research.google.com/drive/1jtmSUK__9kFKtx1_yUxt4hchkG6rhXI5?usp=sharing)  
+✏️ [**Open in Overleaf**](https://www.overleaf.com/project/690712e44933628f0cd72007)
 
 ---
 
@@ -148,4 +149,5 @@ Metrics reflect multi-class severity estimation accuracy.
 ## 🧾 References
 - [PlantVillage Dataset on Kaggle](https://www.kaggle.com/datasets/emmarex/plantdisease)  
 - [Cassava Leaf Disease Dataset on Kaggle](https://www.kaggle.com/datasets/nirmalsankalana/cassava-leaf-disease-classification)  
-- [Colab Notebook](https://colab.research.google.com/drive/1jtmSUK__9kFKtx1_yUxt4hchkG6rhXI5?usp=sharing)
+- [Colab Notebook](https://colab.research.google.com/drive/1jtmSUK__9kFKtx1_yUxt4hchkG6rhXI5?usp=sharing)  
+- [Overleaf Project](https://www.overleaf.com/project/690712e44933628f0cd72007)
