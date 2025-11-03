@@ -9,7 +9,6 @@ A **two-stage training approach** was employed:
 ---
 
 ## 💻 Run on Colab
-You can open and run the full notebook on Google Colab here:  
 👉 [**Open in Google Colab**](https://colab.research.google.com/drive/1jtmSUK__9kFKtx1_yUxt4hchkG6rhXI5?usp=sharing)
 
 ---
