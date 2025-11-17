@@ -8,9 +8,9 @@ A **two-stage training approach** was employed:
 
 ---
 
-## 💻 Run Online
+## 💻 Run & Read Online
 👉 Run Code: [**Open in Google Colab**](https://colab.research.google.com/drive/1jtmSUK__9kFKtx1_yUxt4hchkG6rhXI5?usp=sharing)  
-✏️ Read Ppaper: [**Open in Overleaf**](https://www.overleaf.com/3129372953bdrcmqqsxhjd#d9af36)
+✏️ Read Paper: [**Open in Overleaf**](https://www.overleaf.com/3129372953bdrcmqqsxhjd#d9af36)
 
 ---
 
